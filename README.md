@@ -4,6 +4,8 @@ This is a Sudoku Application that has been created using ReactJS (Create React A
 
 ![Sudoku App](https://github.com/ChanBos/Sudoku-App/blob/master/public/images/Sudoku%20App.jpg)
 
+Herewith the URL that may be used to visit my deployed Sudoku Application - https://fathomless-island-77318.herokuapp.com/
+
 ### Table of Contents:
 
 =================
