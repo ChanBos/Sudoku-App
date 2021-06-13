@@ -66,7 +66,7 @@ A move is incorrect if:
 - Any column contains more than one of the same number from 1 to 9.
 - Any 3x3 grid contains more than one of the same number from 1 to 9.
 
-### Application Features
+### Game Features
 
 1. Beautifully styled interface with user-friendly elements.
 
